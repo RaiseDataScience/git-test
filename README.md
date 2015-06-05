@@ -7,3 +7,6 @@ Team Git tutorial/workshop
 #Making second edits
 Yale is making edits to the readme file
 
+#Rebasing
+Is not easy.
+
