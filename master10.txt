@@ -3,3 +3,6 @@ Woo, it's a file originally created in the master branch.
 Here is an edit to the file, also originally made in
 the master branch.
 
+Here is an edit originally added in the test-branch 
+branch.
+
