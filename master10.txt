@@ -5,3 +5,5 @@ the master branch.
 
 Here is a second edit to the file, originally added w/in 
  the master branch.
+
+Third line, originally added in master branch.
