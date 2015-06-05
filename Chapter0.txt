@@ -1,2 +1,0 @@
-CHAPTER 0:
-Once upon a time, I decided to learn how to rebase.
