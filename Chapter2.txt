@@ -1,0 +1,2 @@
+CHAPTER 2:
+Rebasing is not as simple as people led me to believe. :-(
