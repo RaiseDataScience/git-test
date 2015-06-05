@@ -6,8 +6,10 @@ the master branch.
 Here is a second edit to the file, originally added w/in 
  the master branch.
 
+<<<<<<< HEAD
 Here is an edit originally added in the test-branch 
 branch.
 
-
-
+=======
+Third line, originally added in master branch.
+>>>>>>> master
