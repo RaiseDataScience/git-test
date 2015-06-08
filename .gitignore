@@ -1,0 +1,5 @@
+# Ignore checkpoint files
+.ipynb.checkpoints
+.ipynb_checkpoints/
+# Ignore executables (sp?), too.
+*.pyc
